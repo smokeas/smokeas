@@ -1,8 +1,8 @@
 ## Hi , I`m Artem 👋
-👨‍💻 Go Developer
-✉️ E mail : artemsss009@gmail.com
-📪 Linkedln : www.linkedin.com/in/artem-sinitsa-31845b319
-💬 Telegram : @smokee669
+👨‍💻 Go Developer /dr
+✉️ E mail : artemsss009@gmail.com /dr
+📪 Linkedln : www.linkedin.com/in/artem-sinitsa-31845b319 /dr
+💬 Telegram : @smokee669 /dr
 
 
 # 💻 Tech Stack:
