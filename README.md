@@ -1,5 +1,5 @@
 ## Hi , I`m Artem 👋
-👨‍💻 Go Developer <br/>
+👨‍💻 QA engineer <br/>
 ✉️ E mail : artemsss009@gmail.com <br/>
 📪 Linkedln : www.linkedin.com/in/artem-sinitsa-31845b319 <br/>
 💬 Telegram : @smokee669 <br/>
